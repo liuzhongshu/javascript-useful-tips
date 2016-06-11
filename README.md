@@ -1,5 +1,8 @@
 ## Language
 
+##### prevent object be modified
+use [Object.freeze](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze)
+
 ## Jquery
 
 ##### document.ready vs self calling anonymous function
