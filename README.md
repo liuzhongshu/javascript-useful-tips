@@ -1,5 +1,3 @@
-# java-useful-tips
-
 ## Language
 
 ## Jquery
